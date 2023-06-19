@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Alihussain-khan
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning Neural Networks
-- 💞️ I’m looking to collaborate on Anything Deep Learning Related
+- 👀 MERN Stack Developer
 - 📫 How to reach me alihussainkhan24@gmail.com
 
 <!---
