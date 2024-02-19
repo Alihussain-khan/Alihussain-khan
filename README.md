@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alihussain-khan
-- 👀 MERN Stack Developer
+- 👀 I am front-end developer in vue and react
 - 📫 How to reach me alihussainkhan24@gmail.com
 
 <!---
