@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alihussain-khan
-- 👀 I am front-end developer in vue and react
+- 👀 I am front-end developer vue | react | angular
 - 📫 How to reach me alihussainkhan24@gmail.com
 
 <!---
